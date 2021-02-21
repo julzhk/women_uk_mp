@@ -57,6 +57,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.1.0
 preshed==3.0.5
+prettytable==2.0.0
 prometheus-client==0.9.0
 prompt-toolkit==3.0.14
 protobuf==3.14.0
@@ -64,6 +65,7 @@ ptyprocess==0.7.0
 pycparser==2.20
 pydantic==1.7.3
 pydeck==0.5.0
+pyecharts==1.9.0
 Pygments==2.7.4
 pyparsing==2.4.7
 pyrsistent==0.17.3
@@ -74,6 +76,7 @@ qtconsole==5.0.2
 QtPy==1.9.0
 requests==2.25.1
 Send2Trash==1.5.0
+simplejson==3.17.2
 six==1.15.0
 smart-open==3.0.0
 smmap==3.0.5
@@ -83,6 +86,7 @@ spacy-nightly==3.0.0rc5
 spacy-streamlit==1.0.0rc1
 srsly==2.4.0
 streamlit==0.76.0
+streamlit-echarts==0.2.0
 terminado==0.9.2
 testpath==0.4.4
 thinc==8.0.1
@@ -90,11 +94,10 @@ toml==0.10.2
 toolz==0.11.1
 tornado==6.1
 tqdm==4.56.2
-traitlets==4.3.3
+traitlets==5.0.5
 typer==0.3.2
 tzlocal==2.1
 urllib3==1.26.3
-usb-barcode-scanner-julz==0.2
 validators==0.18.2
 wasabi==0.8.2
 watchdog==2.0.0
